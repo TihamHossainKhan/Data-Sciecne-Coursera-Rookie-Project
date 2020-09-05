@@ -1,1 +1,1 @@
-# Data-Sciecne-Coursera-Rookie-Project
+A Coursera Certitified Basic Data Science Practice Session Project
